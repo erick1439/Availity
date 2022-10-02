@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fullName": "Erick Pena",
+      "npiNumber": "8457",
+      "bussinessAdress": "123 Mapple St",
+      "phoneNumber": "88877998",
+      "emailAddress": "erick@erick.com"
+    },
+    {
+      "id": "2",
+      "fullName": "Mary Thomas",
+      "npiNumber": "9863",
+      "bussinessAdress": "321 Royer St",
+      "phoneNumber": "9874563245",
+      "emailAddress": "mary@mary.com"
+    },
+    {
+      "fullName": "Test",
+      "npiNumber": "22",
+      "bussinessAdress": "123 test St",
+      "phoneNumber": "88877998",
+      "emailAddress": "tes@test.com",
+      "id": "7_JWj6v"
+    },
+    {
+      "fullName": "Mickey",
+      "npiNumber": "890",
+      "businessAddress": "King st",
+      "phoneNumber": "56498709",
+      "email": "mickey@mickey.com",
+      "id": "Fm13aju"
+    },
+    {
+      "fullName": "Mickey",
+      "npiNumber": "8900",
+      "businessAddress": "King st",
+      "phoneNumber": "56498709",
+      "email": "mickey@mickey.com",
+      "id": "Oz55i4C"
+    },
+    {
+      "fullName": "jose",
+      "npiNumber": "322",
+      "businessAddress": "jose jose",
+      "phoneNumber": "433",
+      "email": "jose@jose.com",
+      "id": "tRts5yK"
+    },
+    {
+      "fullName": "Bret",
+      "npiNumber": "908",
+      "businessAddress": "bret js",
+      "phoneNumber": "4332",
+      "email": "bret@bret.com",
+      "id": "w7B2MNQ"
+    },
+    {
+      "fullName": "check",
+      "npiNumber": "54",
+      "businessAddress": "check",
+      "phoneNumber": "4324324",
+      "email": "check@check.com",
+      "id": "2np06kl"
+    },
+    {
+      "fullName": "chec",
+      "npiNumber": "541",
+      "businessAddress": "sdf",
+      "phoneNumber": "fds",
+      "email": "dfs@sf.com",
+      "id": "kQqQZw2"
+    }
+  ]
+}

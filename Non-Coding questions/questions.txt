@@ -1,0 +1,12 @@
+1.	Tell me about your proudest professional achievement. It can also be a personal or school project.  
+    - One of the proudest moments I had was in my Computer Graphics class. This was a programming class where we put a lot of emphasis in covering fundamentals of interactive 3D computer graphics. 
+    As final project with had the option to create any project we wanted. I develped an interactive 3d project that allows users to navigate, explore, and learn the anatomy of an animal cell. The user is able 
+    to pinpoint a particular area of the cell and learn how an individual component of the cell works. I spent multiple hours to complete this project, and the reason why I was so proud it was beacuse I was able
+    to show a visual representation of my work to programers and non-prgramers. I was able to show my mom and friends that had little to zero knowladge of programing, why I liked coding and how programming can open
+    your doors to new spectrum of possibilities. You can see a live demo of this project at: https://cell-model-3d.herokuapp.com/. It might take few second to load since I am using a free server to host the project.
+
+2.	Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc) 
+    - 
+3.	How would you explain to your grandmother what Availity does?
+    - Availity is a company that focus to produce a reliable health information network that allows tons of companines to solve communication challenges in healthcare industry. One of their many benefits is to exchange 
+    tranparent information among health plans, providers, and technology partners
