@@ -9,7 +9,7 @@
 - We need 'cd' to the directory Problem2/registration
 - We need to run the command: npm install
 - We need to run the command: npm start
-- In order to simiulate a dummy local database I am using JSON server. So in a different terminal we need to run the command: npx json-server --watch data/db.json --port 8000
+- In order to simiulate a dummy local database I am using JSON server. So in a different terminal we 'cd' to the right directory and we run the command: npx json-server --watch data/db.json --port 8000
 
 ## Prgram3
 - We need to 'cd' to the directory Program3
